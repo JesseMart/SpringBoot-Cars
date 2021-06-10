@@ -15,7 +15,7 @@ public class InfosysDemoApplication {
 		
 //		System.out.println(beanbag.containsBean(greeting()));
 //		CarController controller = beanbag.getBean(CarController.class);
-//		System.out.println(controller.sayHello());
+//		System.out.println(controller.sayHi());
 	}
 	
 	//Bean - managed object
